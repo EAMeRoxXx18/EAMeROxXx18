@@ -44,7 +44,8 @@ Desarrollador Front-End con experiencia en la creación de interfaces web intera
 - **[Proyecto 1](https://charming-cassata-67ed50.netlify.app/)**: Blog dedicado a dar informacion sobre la cultura del Municipio de Temascalapa.
 - **[Proyecto 2](https://preeminent-trifle-c8ba96.netlify.app/)**: Sitio Web Dedicado a dar a conocer el Turismo del Municipio de Temascalapa.
 - **[Proyecto 3](https://mellow-cocada-e33a9c.netlify.app/)**: Boceto de blog para una Cafeteria.
-- **[Proyecto 3](https://spontaneous-frangollo-6fc137.netlify.app/)**: Boceto de una tienda de futbol online.
+- **[Proyecto 4](https://spontaneous-frangollo-6fc137.netlify.app/)**: Boceto de una tienda de futbol online.
+- **[Proyecto 5](https://spontaneous-frangollo-6fc137.netlify.app/)**: Diseño del Buscador de Google.
 
 ### Mi Trayectoria de Aprendizaje
 
@@ -54,7 +55,7 @@ A lo largo de mi trayectoria en el desarrollo web front-end, he adquirido habili
 
 ## Cómo Contactarme
 
-- 💼 [Portafolio](https://cosmic-gingersnap-0d87ec.netlify.app/)
+- 💼 [Portafolio](https://lighthearted-begonia-dffe20.netlify.app/)
 - 💬 [LinkedIn](www.linkedin.com/in/edgar-alfonso-romo-medina-b93467204)
 - 📧 [Correo](alfonsomedinaupt18@gmail.com)
 - 🐦 [Twitter](https://x.com/EAMeRo18)
